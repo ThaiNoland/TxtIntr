@@ -1,0 +1,12 @@
+*.o
+*.obj
+*.exe
+*.out
+build/
+bin/
+
+__pycache__/
+.vscode/
+.idea/
+*.swp
+.DS_Store
